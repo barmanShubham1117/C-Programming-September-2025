@@ -1,0 +1,3 @@
+0. Install C compiler and Git in your system
+1. char hashtag = '#'; printf("%d", hashtag);   | Output: 35
+2. Type Casting
