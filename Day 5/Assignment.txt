@@ -1,0 +1,56 @@
+Day 5 Assignment: Pointers, Functions, and Arrays
+
+=== BASIC LEVEL ===
+
+Q1. Maximum Function
+Write a function to find the maximum of two numbers.
+
+Q2. Array Declaration
+Declare an array of 5 integers and print the third element.
+
+Q3. Pointer Basics
+Write a program that declares an integer variable, creates a pointer to it, and prints both the value and address.
+
+Q4. Simple Array Function
+Write a function that takes an array of 3 integers and prints all elements.
+
+Q5. Basic Pointer Arithmetic
+Write a program that uses pointer arithmetic to access array elements.
+
+=== INTERMEDIATE LEVEL ===
+
+Q6. Swap Function
+Write a function to swap two integers using pointers.
+
+Q7. Array Sum
+Write a function that takes an array and its size, returns the sum of all elements.
+
+Q8. 2D Array Access
+Write a program to declare a 2x3 matrix and print all elements using nested loops.
+
+Q9. Largest Element
+Write a function to find the largest element in an array.
+
+Q10. Array Reversal
+Write a function to reverse an array in-place using pointers.
+
+Q11. String Length
+Write a function to calculate the length of a string using pointers.
+
+Q12. Function Returning Pointer
+Write a function that returns a pointer to the maximum element in an array.
+
+Q13. Vowel Counter
+Write a function to count vowels in a string (character array).
+
+Q14. Array Copy
+Write a function to copy elements from one array to another using pointers.
+
+Q15. Matrix Addition
+Write a function to add two 2x2 matrices and store the result in a third matrix.
+
+=== SUBMISSION GUIDELINES ===
+- Implement all functions with proper syntax
+- Test your code with sample inputs
+- Focus on both correctness and efficiency
+- Use meaningful variable names
